@@ -17,13 +17,6 @@ int main (int argc, char *argv[]){
 	for(int i = 0; i<10; i++) { //generate 10 random numbers
 		list.insertarNodo(rand()%limite);
 	}
-	list.insertarNodo(6);
-	list.insertarNodo(14);
-	list.insertarNodo(785);
-	list.insertarNodo(85);
-	list.insertarNodo(364);
-	list.insertarNodo(8456);
-	list.insertarNodo(890);
 	while (true){
 		list.imprimirTamList();
 		list.imprimirLista();
