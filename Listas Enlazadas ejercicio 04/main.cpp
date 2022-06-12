@@ -1,7 +1,6 @@
-/*3. Desarrolle una función que permita ingresar elementos en el medio de dos elementos
-de la lista enlazada, como se muestra en la siguiente imagen. Solicite que se ingrese
-una posición válida dentro de la lista y permita que el valor ingresado se pueda anexar
-en esa posición.*/
+/*4. Elabore una función que permita eliminar el último elemento de una lista enlazada.
+(Evite copiar los elementos en una nueva lista para completar la eliminación del
+elemento )*/
 /*Apellidos y Nombres: Zhong Callasi, Linghai Joaquin*/
 #include<iostream>
 #include "ListaEnlazada.h"
